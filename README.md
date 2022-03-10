@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **atulyadav9416@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xxPZYmFLSSBiOdD4uNPeIBas_f3LPr-F/view](https://drive.google.com/file/d/1xxPZYmFLSSBiOdD4uNPeIBas_f3LPr-F/view)
+- 📄 Know about my experiences [my Resume:)](https://drive.google.com/file/d/1R7Utq9y-XFU7WbQQTOdKoPM7j_eo86d3/view?usp=sharing)
 
 - ⚡ Fun fact **I am a better team-player rather than a solo-player.**
 
