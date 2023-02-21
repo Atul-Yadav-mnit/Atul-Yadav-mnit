@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atul Yadav</h1>
-<h3 align="center">3'rd year CSE student at NIT Jaipur</h3>
+<h3 align="center">Final year CSE student at NIT Jaipur</h3>
 
 - 🔭 I’m currently working on **college society management webapp, `Collegeify` which helps various college societies to recruit, organize events, group chat with members, post updates and lot more.**
 
